@@ -15,7 +15,7 @@ var
                 username : "Admin1",
                 roles : [
                     "admin", "user", "anonymous"
-                ]
+                ] 
             },
             {
                 id    : 2,
